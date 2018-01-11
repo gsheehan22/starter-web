@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 ## Some changes here
 
 ## More changes here
+
+## 3rd addition
+
+Final modification?
